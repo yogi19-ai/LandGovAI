@@ -1,0 +1,13 @@
+State_Code,State_Name,Dispute_Category,Pending_Cases_2023,Pending_Cases_2024,Pending_Cases_2025,Avg_Resolution_Time_Months,Primary_Cause,Data_Source
+TN,Tamil Nadu,Boundary Discrepancy,4820,4510,4100,14.2,Unsurveyed Gram Sabha Lands,High Court & Revenue Dept
+TN,Tamil Nadu,Inheritance & Title,6100,5900,5650,22.5,Lack of Digital Mutation Records,State Revenue Tribunal
+TN,Tamil Nadu,Encroachment on Water Bodies,5100,4800,4500,18.0,Urban Sprawl,High Court Orders
+MH,Maharashtra,Tribal Land Transfer (FRA),12400,11800,11200,34.0,Forest Rights Claims Verification,MoTA & Revenue Dept
+MH,Maharashtra,Industrial Acquisition Compensation,15200,14900,14300,28.5,Valuation Discrepancies,SLALAC Board
+UP,Uttar Pradesh,Revenue Record Mutation,28500,26800,24900,19.2,Legacy Paper Records Errors,Board of Revenue UP
+UP,Uttar Pradesh,Gram Sabha Encroachment,22400,21100,19800,15.8,Communal Land Encroachment,District Revenue Courts
+GJ,Gujarat,Land Pooling & TP Scheme,8900,8300,7800,16.4,Urban Development Authority Valuation,GUDA & AMC
+KA,Karnataka,Bhoomi Mutation Discrepancy,11200,10400,9600,11.5,System Sync Delay with Sub-Registrar,Kaveri-Bhoomi API
+OD,Odisha,Mining Lease Boundaries,7400,7100,6700,41.2,Overlapping Mineral Reserves & Forest,Orissa High Court
+MP,Madhya Pradesh,Chambal Land Reclamation Titles,12100,11400,10700,26.0,Ravine Land Allocation Conflicts,Department of Revenue MP
+WB,West Bengal,Barga/Sharecropper Title Verification,16800,15900,15100,31.2,Historical Record Verification,Land & LR Department WB

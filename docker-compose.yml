@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: land_governance_backend
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./land_governance.db
+      - SECRET_KEY=sih-26019-national-land-governance-platform-secret-key-2026
+    volumes:
+      - ./backend/data:/app/data
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: land_governance_frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
